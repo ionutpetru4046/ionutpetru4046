@@ -19,8 +19,8 @@ Responsive Design: Media Queries, Flexbox, CSS Grid
 
 🔨 Current Projects
 
-[Project Name 1 coming soon]: A React.js e-commerce platform with dynamic product filtering and secure authentication.
-[Project Name 2 coming soon]: A portfolio website built with Next.js showcasing my web development journey and projects.
+[Project coming soon: A React.js e-commerce platform with dynamic product filtering and secure authentication.
+[Project coming soon: A portfolio website built with Next.js showcasing my web development journey and projects.
 
 🌱 Learning and Growth
 
