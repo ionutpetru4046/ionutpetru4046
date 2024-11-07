@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Coste Ionut Petru</h1>
-<h3 align="center">I'm a Passionate Frontend Web Developer Based in Ireland Dublin City Center</h3>
+<h3 align="center">I'm a Passionate Frontend Web Developer Based in Dublin City Center Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionutpetru4046&label=Profile%20views&color=0e75b6&style=flat" alt="ionutpetru4046" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **ionthekid@yahoo.com**
+- 📫 How to reach me **ionut4046@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
