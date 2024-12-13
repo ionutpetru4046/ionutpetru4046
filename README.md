@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionutpetru4046&label=Profile%20views&color=0e75b6&style=flat" alt="ionutpetru4046" /> </p>
 
-- 🌱 I’m currently learning **Next.js** **MongoDB** and **Express.js**
+- 🌱 I’m currently learning **Next.js** and **Web Design**
 
 - 📫 How to reach me **ionut4046@yahoo.com**
 
