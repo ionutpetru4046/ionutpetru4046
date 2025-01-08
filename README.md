@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Coste Ionut Petru</h1>
+<h1 align="center">Hi 👋, I am Coste Ionut Petru</h1>
 <h3 align="center">I'm a Junior Full-Stack Web Developer Based in Dublin, Ireland City Center</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionutpetru4046&label=Profile%20views&color=0e75b6&style=flat" alt="ionutpetru4046" /> </p>
 
-- 🌱 I’m currently learning **Next.js** and **Web Design**
+- 🌱 I am currently learning **Next.js** and **Web Design**
 - My Focus is Full Stack Web Development with MERN Stack
 - 📫 How to reach me **ionut4046@yahoo.com**
 
