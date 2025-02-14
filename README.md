@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Coste Ionut</h1>
+<h1 align="center">Hi 👋, I am Coste Ionut Petru</h1>
 <h3 align="center">I am Junior Full-Stack Developer Based in Dublin, Ireland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionutpetru4046&label=Profile%20views&color=0e75b6&style=flat" alt="ionutpetru4046" /> </p>
