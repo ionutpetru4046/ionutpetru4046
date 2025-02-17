@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ionutpetru4046&label=Profile%20views&color=0e75b6&style=flat" alt="ionutpetru4046" /> </p>
 
-- 🌱 I am currently learning **Next.js** and **Figma Web Design**
+- 🌱 I am currently learning **Next.js** and **SQL Database**
 - My Focus is Full Stack Web Development MERN Stack
 - 📫 How to reach me **ionut4046@yahoo.com**
 
