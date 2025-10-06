@@ -5,7 +5,7 @@
 
 - 🌱 I am currently learning and doing projects with **Next.js**
 - My Focus is Full Stack Development MERN Stack
-- 📫 How to reach me **ionut4046@yahoo.com**
+- 📫 How to reach me **costewebdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
