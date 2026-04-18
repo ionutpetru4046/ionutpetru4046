@@ -33,46 +33,6 @@ Building scalable web applications with clean architecture and real-world impact
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 Full-Stack SaaS Platform
-> Subscription-based platform with authentication, payments, and dashboard
-
-- Built with MERN + Stripe integration
-- Secure authentication (JWT + role-based access)
-- RESTful API with scalable structure
-- Payment flow & subscription logic
-
-**Tech:** React, Node.js, MongoDB, Stripe  
-🔗 Live Demo | 🔗 GitHub  
-
----
-
-### 🔹 Barber Booking Web App
-> Modern booking system with real-time availability
-
-- Clean UI/UX with responsive design
-- Booking logic + time slot management
-- Admin dashboard for managing appointments
-
-**Tech:** Next.js, Node.js, MongoDB  
-🔗 Live Demo | 🔗 GitHub  
-
----
-
-### 🔹 REST API System (Production Style)
-> Backend-focused project simulating real-world architecture
-
-- Modular structure (controllers, services, middleware)
-- Authentication & authorization
-- Error handling + validation
-- Tested with Postman
-
-**Tech:** Node.js, Express, MongoDB  
-🔗 GitHub  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
