@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coste Ionut Petru</h1>
-<h3 align="center">Full Stack MERN Developer | Node.js & React Specialist</h3>
+<h3 align="center">Full Stack MERN Developer | Node.js & Reactjs & Nextjs Specialist</h3>
 
 <p align="center">
 Building scalable web applications with clean architecture and real-world impact.
