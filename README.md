@@ -19,11 +19,11 @@ Building scalable web applications with clean architecture and real-world impact
 
 ## 🛠️ Tech Stack
 
-### Core
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-- **Backend:** Node.js, Express, REST APIs, JWT Auth  
-- **Database:** MongoDB, PostgreSQL  
-- **DevOps:** Docker, NGINX, AWS  
+### 🛠 Core Engineering Stack
+- **Languages & Frameworks:** TypeScript, JavaScript (ES6+), React.js, Next.js (SSR), Node.js, Express.js
+- **Databases & Architecture:** MongoDB, PostgreSQL, RESTful APIs, GraphQL, WebSockets, JWT Authentication
+- **Cloud & Infrastructure:** Docker Containerization, AWS (EC2, S3), NGINX, CI/CD Deployment Pipelines
+  
 
 ### Tools
 - Git & GitHub  
