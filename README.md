@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coste Ionut Petru</h1>
-<h3 align="center">Full Stack Developer | MERN, TypeScript & AWS/Docker | EU Citizen (No Visa Required)</h3>
+<h3 align="center">Full Stack Developer | React.js | Next.js | TypeScript | Node.js | PostgreSQL | Supabase</h3>
 
 <p align="center">
 Building scalable web applications with clean architecture and real-world impact.
